@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="languages">Indonesia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_playing">Saat Ini</string>
+    <string name="navigation_upcoming">Mendatang</string>
+    <string name="des_playing">Berikut Daftar Film Yang Sedang Tayang Di Bioskop</string>
+    <string name="des_upcoming">Berikut Daftar Film Yang Akan Tayang Di Bioskop</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_search">Pencarian</string>
+    <string name="title_detail">Rincian Film</string>
+    <string name="title_result">Hasil Pencarian</string>
+    <string name="btn_find">Cari</string>
+    <string name="caption_find">Cari Film Yang Anda Inginkan</string>
+    <string name="no_des">Tidak Ada Deskripsi</string>
+    <string name="error_response">Terjadi Kesalahan</string>
+    <string name="movie_not_found">Movie Tidak Ditemukan</string>
+    <string name="navigation_favorite">Favorit</string>
+
+</resources>

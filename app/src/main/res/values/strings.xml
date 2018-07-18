@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="languages">English</string>
+
+    <string name="navigation_playing">Playing</string>
+    <string name="navigation_upcoming">Upcoming</string>
+    <string name="des_playing">This is Movie Playing Now</string>
+    <string name="des_upcoming">This is Movie Upcoming</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_detail">Detail Movie</string>
+    <string name="title_result">Result</string>
+    <string name="btn_find">Find</string>
+    <string name="caption_find">Search Your Movie</string>
+    <string name="no_des">No Description</string>
+    <string name="error_response">Unknown Error</string>
+    <string name="movie_not_found">Movie Not Found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_favorite">Favorite</string>
+    <string name="empty">Empty</string>
+    <string name="on_off_remider">On</string>
+    <string name="setting_language">Language</string>
+    <string name="txt_reminder">Reminder</string>
+    <string name="appwidget_text">MOVIE APP</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

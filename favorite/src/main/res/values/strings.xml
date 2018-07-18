@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="navigation_favorite">Favorite</string>
+    <string name="empty">Empty</string>
+    <string name="title_detail">Detail Movie</string>
+
+</resources>
